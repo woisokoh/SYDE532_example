@@ -1,2 +1,4 @@
 # SYDE532_example
-This is an example of GitHub repo for SYDE 532 final project
+This is an example of a GitHub repo for the SYDE 532 final project
+
+In the ReadMe file, please include the project title as the title and member names.
